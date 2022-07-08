@@ -9,8 +9,8 @@ set_chat_lang: "Great, using {} Language it is from now on!"
 
 # PM Text
 pm_start_text: |
-  *Hey Darling, {} ❤️*
-  ✪ I'm an anime-theme management robot [✨](https://telegra.ph/file/6d3e3ef24f64fb6e35df0.jpg)
+  *Hey MJ Group Manager, {} ❤️*
+  ✪ I'm an anime-theme management robot [✨](https://https://telegra.ph/file/40bd909e919ac601bc365.jpg)
 
   ┏━━━━━━━━•❃°•°❀°•°❃•━━━━━━━━┓
   × *Server Uptime :* `{}`
@@ -20,12 +20,12 @@ pm_start_text: |
   ✪ Hit /help to see my available commands.
    
 group_start_text: |
-  *👋🏻 Hi Darling, I'm Siesta Robot!*
+  *👋🏻 Hi Darling, I'm MJ Robot!*
   
   *Started active since :* `{}`
 
 pm_about_text: |
-  ✺ Hey Darling I'm *Siesta Robot*, a powerful group management bot built to help you manage your group easily. ✺
+  ✺ Hey Darling I'm *MJ Robot*, a powerful group management bot built to help you manage your group easily. ✺
 
   ✪ I can restrict users.
   ✪ I can greet users with customizable welcome messages and even set a group's rules.
@@ -54,11 +54,11 @@ pm_about_notes_text: |
   ✪ You can save message/media/audio or anything as notes to get a note simply use # at the beginning of a word
   ✪ You can also set buttons for notes and filters (refer help menu)
 pm_about_support_text: |
-  *✺ Siesta Robot support chats ✺*
+  *✺ mj Robot support chats ✺*
 
   Join My Support Group/Channel for see or report a problem on Siesta.
 pm_about_credit_text: |
-  *✺ Credis for Siesta ✺*
+  *✺ Credis for mj ✺*
 
   Here Developers Making And Give Inspiration For Made The Siesta Robot
 pm_help_text: |
@@ -180,13 +180,13 @@ antispam_help: |
 
     Anti-Spam, used by bot devs to ban spammers across all groups. This helps protect \
     you and your groups by removing spam flooders as quickly as possible.
-    *Note:* Users can appeal gbans or report spammers at @{SUPPORT_CHAT}
+    *Note:* Users can appeal gbans or report spammers at @mazi_efx
 
-    This also integrates @Spamwatch API to remove Spammers as much as possible from your chatroom!
+    This also integrates @mazi_efx API to remove Spammers as much as possible from your chatroom!
     *What is SpamWatch?*
-    SpamWatch maintains a large constantly updated ban-list of spambots, trolls, bitcoin spammers and unsavoury characters[.](https://telegra.ph/file/f584b643c6f4be0b1de53.jpg)
+    SpamWatch maintains a large constantly updated ban-list of spambots, trolls, bitcoin spammers and unsavoury characters[.](https://telegra.ph/file/40bd909e919ac601bc365.jpg)
     Constantly help banning spammers off from your group automatically So, you wont have to worry about spammers storming your group.
-    *Note:* Users can appeal spamwatch bans at @SpamwatchSupport
+    *Note:* Users can appeal spamwatch bans at @mazi_efx
 approve_help: |
     ──「 Aprroved 」──
 
